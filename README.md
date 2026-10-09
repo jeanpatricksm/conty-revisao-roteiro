@@ -67,5 +67,4 @@ Erros vêm como `{ "error": "<código>", "message": "..." }`:
 
 ## Uso de IA
 
-<!-- revise e ajuste com as suas palavras antes de enviar -->
-O código, os testes e este README foram escritos com o Claude (Claude Code). Eu revisei o modelo de estados, as regras de prazo e os testes do último instante do dia e do primeiro instante do dia seguinte, e rodei `npm test` e `npm run typecheck`.
+Usei IA (Claude Code) pra me ajudar a entender o problema, analisar as regras e implementar a solução. Revisei o código, as decisões descritas aqui e rodei os testes pra confirmar.
